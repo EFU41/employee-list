@@ -1,0 +1,22 @@
+{
+  "employess": [
+    {
+      "name": "Enes Furkan",
+      "department": "Antrenör",
+      "salary": 12000,
+      "id": 1
+    },
+    {
+      "name": "Atakan ÇELİK",
+      "department": "Mühendis",
+      "salary": 50000,
+      "id": 2
+    },
+    {
+      "name": "Osman",
+      "department": "adliye",
+      "salary": 12000,
+      "id": 3
+    }
+  ]
+}
